@@ -16,3 +16,5 @@ touch $FOLDER/hard_problem.md
 touch $FOLDER/input.txt
 
 # command to run: ./create-aoc.sh folder_name
+# TODO: make alias for this command
+# dayme() function in aliases.sh | dayme folder_name
